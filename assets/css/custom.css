@@ -1,0 +1,33 @@
+.topbar-left a.logo img, .nav.navbar-nav a.logo img{
+  width: 70px;
+  height: 70px;
+}
+
+.topbar-left a.logo{
+  
+}
+
+.panel .cm-panel-body{
+	padding: 0;
+}
+
+.cm-panel-body{
+	padding: 0;
+}
+
+.margin-right-10{
+    margin-right: 10px;
+}
+
+.portfolioContainer .gal-detail.thumb{
+	position: relative;
+}
+
+.gal-detail.thumb:hover .delete_file{
+	display: block !important; 
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 5px 10px;
+	background-color: rgba(193, 66, 66, 0.5);
+}
